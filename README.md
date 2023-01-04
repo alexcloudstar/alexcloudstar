@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **React, NodeJS, ExpressJS, Typescript, Styled Components, Javascript, Docker, Kubernetes**
 
-- 📫 How to reach me **contact@alexcloudstar.com**
+- 📫 How to reach me **alexcloudstar@gmail.com**
 
-- 📄 Know about my experiences [https://www.alexcloudstar.com/profile.pdf](https://www.alexcloudstar.com/profile.pdf)
+- 📄 Know about my experiences [[https://www.alexcloudstar.com/profile.pdf](https://www.linkedin.com/in/alexcloudstar/)]([https://www.alexcloudstar.com/profile.pdf](https://www.linkedin.com/in/alexcloudstar/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
