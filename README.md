@@ -9,7 +9,7 @@ I'm a Senior Full-Stack Developer with expertise in Javascript and cloud computi
 * 🌍  I'm based in Romania
 * 🖥️  See my portfolio at [alexcloudstar.com](http://alexcloudstar.com)
 * ✉️  You can contact me at [alexcloudstar@gmail.com](mailto:alexcloudstar@gmail.com)
-* 🚀  I'm currently working on [Twitter Clone V2](http://https://github.com/alexcloudstar/twitter-clone-v2)
+* 🚀  I'm currently working on [Twitter Clone V2](https://github.com/alexcloudstar/twitter-clone-v2)
 * 🧠  I'm learning AWS Cloud
 * 🤝  I'm open to collaborating on Frontend, Backend or Full Stack projects
 
