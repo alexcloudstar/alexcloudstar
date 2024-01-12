@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Javascript Full-Stack Developer
 --------------------------------------
 
-I'm a Senior Full-Stack Developer with expertise in Javascript and cloud computing using AWS. Throughout my career, I have worked with a range of technologies, including React JS, React Native, Typescript, Styled Components, Redux, Webpack, Node JS, Express, NestJS, and Prisma, AWS. My greatest strength is my ability to learn independently, which has allowed me to continuously grow and succeed in this field. I'm passionate about delivering my best work on every project and always eager to take on new challenges. I have 5 years of professional experience and a total of 7 years of experience in self-learning. If you're interested in learning more about my career and expertise, feel free to reach out and start a conversation! Cheers!
+I'm a Senior Full-Stack Developer with expertise in Javascript and cloud computing using AWS. Throughout my career, I have worked with a range of technologies, including React JS, React Native, Typescript, Styled Components, Redux, Webpack, Node JS, Express, NestJS, and Prisma, AWS. My greatest strength is my ability to learn independently, which has allowed me to continuously grow and succeed in this field. I'm passionate about delivering my best work on every project and always eager to take on new challenges. I have 5+ years of professional experience and a total of 9 years of experience in self-learning. If you're interested in learning more about my career and expertise, feel free to reach out and start a conversation! Cheers!
 
 * 🌍  I'm based in Romania
 * 🖥️  See my portfolio at [alexcloudstar.com](http://alexcloudstar.com)
