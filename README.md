@@ -9,7 +9,7 @@ I'm a Senior Full-Stack Developer with expertise in Javascript and cloud computi
 * 🌍  I'm based in Romania
 * 🖥️  See my portfolio at [alexcloudstar.com](http://alexcloudstar.com)
 * ✉️  You can contact me at [alexcloudstar@gmail.com](mailto:alexcloudstar@gmail.com)
-* 🚀  I'm currently working on [taskpad.io](https://www.taskpad.io)
+* 🚀  I'm currently working on develop myself
 * 🧠  I'm learning different things
 * 🤝  I'm open to collaborating on Frontend, Backend or Full Stack projects
 
