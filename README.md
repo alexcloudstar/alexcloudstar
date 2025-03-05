@@ -7,7 +7,7 @@ I'm a Senior Full-Stack Engineer with expertise in Javascript and cloud computin
 * 🖥️  See my portfolio at [alexcloudstar.com](http://alexcloudstar.com)
 * ✉️  You can contact me at [alexcloudstar@gmail.com](mailto:alexcloudstar@gmail.com)
 * 🚀  I'm currently working on develop myself
-* 🧠  I'm learning C currently
+* 🧠  I'm learning different things
 * 🤝  I'm open to collaborating on Frontend, Backend or Full Stack projects
 
 <a href="https://www.github.com/alexcloudstar" target="_blank" rel="noreferrer"><img
