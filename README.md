@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Senior Full-Stack Engineer with expertise in Javascript and cloud computing using AWS. Throughout my career, I have worked with a range of technologies, including React JS, React Native, Typescript, Styled Components, Redux, Webpack, Node JS, Express, NestJS, and Prisma, AWS. My greatest strength is my ability to learn independently, which has allowed me to continuously grow and succeed in this field. I'm passionate about delivering my best work on every project and always eager to take on new challenges. I have 7+ years of professional experience and a total of 9 years of experience in self-learning. If you're interested in learning more about my career and expertise, feel free to reach out and start a conversation! Cheers!
 
 * 🌍  I'm based in Romania
-* 🖥️  See my portfolio at [alexcloudstar.com](http://alexcloudstar.com)
+* 🖥️  See my portfolio at [alexcloudstar.com](https://alexcloudstar.com)
 * ✉️  You can contact me at [alexcloudstar@gmail.com](mailto:alexcloudstar@gmail.com)
-* 🚀  I'm currently working multiple things
+* 🚀  I'm currently working [CoLaunchly 2.0](https://colaunchly.io)
 * 🧠  I'm learning different things
 * 🤝  I'm open to collaborating on Frontend, Backend or Full Stack projects
 
