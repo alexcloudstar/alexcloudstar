@@ -6,7 +6,7 @@ I'm a Senior Full-Stack Engineer with expertise in Javascript and cloud computin
 * 🌍  I'm based in Romania
 * 🖥️  See my portfolio at [alexcloudstar.com](https://alexcloudstar.com)
 * ✉️  You can contact me at [alexcloudstar@gmail.com](mailto:alexcloudstar@gmail.com)
-* 🚀  I'm currently working [CoLaunchly 2.0](https://colaunchly.io)
+* 🚀  I'm currently working 
 * 🧠  I'm learning different things
 * 🤝  I'm open to collaborating on Frontend, Backend or Full Stack projects
 
