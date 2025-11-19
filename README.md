@@ -6,8 +6,8 @@ I'm a Senior Full-Stack Engineer with expertise in Javascript and cloud computin
 * 🌍  I'm based in Romania
 * 🖥️  See my portfolio at [alexcloudstar.com](https://alexcloudstar.com)
 * ✉️  You can contact me at [alexcloudstar@gmail.com](mailto:alexcloudstar@gmail.com)
-* 🚀  I'm currently working 
-* 🧠  I'm learning different things
+* 🚀  I'm currently working on improving myself
+* 🧠  I'm learning GoLang
 * 🤝  I'm open to collaborating on Frontend, Backend or Full Stack projects
 
 <a href="https://www.github.com/alexcloudstar" target="_blank" rel="noreferrer"><img
