@@ -6,7 +6,7 @@ I'm a Senior Full-Stack Engineer with expertise in Javascript and cloud computin
 * 🌍  I'm based in Romania
 * 🖥️  See my portfolio at [alexcloudstar.com](https://alexcloudstar.com)
 * ✉️  You can contact me at [alexcloudstar@gmail.com](mailto:alexcloudstar@gmail.com)
-* 🚀  I'm currently working on [validatemy.app](https://validatemy.app)
+* 🚀  I'm currently working on [Squad In Sync](https://squadinsync.com)
 * 🧠  I'm learning GoLang
 * 🤝  I'm open to collaborating on Frontend, Backend or Full Stack projects
 
