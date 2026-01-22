@@ -7,7 +7,7 @@ I'm a Senior Full-Stack Engineer with expertise in Javascript and cloud computin
 * 🖥️  See my portfolio at [alexcloudstar.com](https://alexcloudstar.com)
 * ✉️  You can contact me at [alexcloudstar@gmail.com](mailto:alexcloudstar@gmail.com)
 * 🚀  I'm currently working on [Squad In Sync](https://squadinsync.com) & [makers.page](https://makers.page)
-* 🧠  I'm learning GoLang
+* 🧠  I'm learning nothing for now. Just exploring stuff
 * 🤝  I'm open to collaborating on Frontend, Backend or Full Stack projects
 
 <a href="https://www.github.com/alexcloudstar" target="_blank" rel="noreferrer"><img
