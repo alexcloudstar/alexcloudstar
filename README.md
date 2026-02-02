@@ -6,7 +6,7 @@ I'm a Senior Full-Stack Engineer with expertise in Javascript and cloud computin
 * 🌍  I'm based in Romania
 * 🖥️  See my portfolio at [alexcloudstar.com](https://alexcloudstar.com)
 * ✉️  You can contact me at [alexcloudstar@gmail.com](mailto:alexcloudstar@gmail.com)
-* 🚀  I'm currently working on [Squad In Sync](https://squadinsync.com) & [makers.page](https://makers.page)
+* 🚀  I'm currently working on [makers.page](https://makers.page) & [SnapPoint](https://github.com/alexcloudstar/snappoint)
 * 🧠  I'm learning nothing for now. Just exploring stuff
 * 🤝  I'm open to collaborating on Frontend, Backend or Full Stack projects
 
