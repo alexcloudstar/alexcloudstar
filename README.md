@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex Cloudstar
 ======================================================================================================================================
+[![Verified by Makers.Page](https://www.makers.page/api/badge/alexcloudstar)](https://www.makers.page/alexcloudstar)
 
 I'm a Senior Full-Stack Engineer with expertise in Javascript and cloud computing using AWS. Throughout my career, I have worked with a range of technologies, including React JS, React Native, Typescript, Styled Components, Redux, Webpack, Node JS, Express, NestJS, and Prisma, AWS. My greatest strength is my ability to learn independently, which has allowed me to continuously grow and succeed in this field. I'm passionate about delivering my best work on every project and always eager to take on new challenges. I have 7+ years of professional experience and a total of 9 years of experience in self-learning. If you're interested in learning more about my career and expertise, feel free to reach out and start a conversation! Cheers!
 
