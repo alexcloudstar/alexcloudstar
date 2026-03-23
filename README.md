@@ -4,7 +4,6 @@ Senior Full-Stack Engineer based in Romania. 7+ years building production softwa
 
 I build things end-to-end: architecture, frontend, backend, cloud, deployment. No hand-holding required.
 
-[![Verified by Makers.Page](https://www.makers.page/api/badge/alexcloudstar)](https://www.makers.page/alexcloudstar)
 [![GitHub followers](https://img.shields.io/github/followers/alexcloudstar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/alexcloudstar)
 [![Twitter](https://img.shields.io/twitter/follow/alexcloudstar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.twitter.com/alexcloudstar)
 
