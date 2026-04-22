@@ -1,6 +1,6 @@
 # Hey, I'm Alex Cloudstar 👋
 
-Senior Full-Stack Engineer based in Romania. 7+ years building production software across fintech, energy, media, and SaaS. 9 years of self-teaching before that.
+Senior Full-Stack Engineer based in Romania. 8+ years building production software across fintech, energy, media, and SaaS. 10 years of self-teaching before that.
 
 I build things end-to-end: architecture, frontend, backend, cloud, deployment. No hand-holding required.
 
