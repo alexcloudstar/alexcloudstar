@@ -14,8 +14,6 @@ I build things end-to-end: architecture, frontend, backend, cloud, deployment. N
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-8%20yrs-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-7%20yrs-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-8%20yrs-61DAFB?style=flat-square&logo=react&logoColor=black)
