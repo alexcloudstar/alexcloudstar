@@ -1,78 +1,159 @@
-# Hey, I'm Alex Cloudstar 👋
+<!-- ───────────────────────────  HERO  ─────────────────────────── -->
 
-Senior Full-Stack Engineer based in Romania. 8+ years building production software across fintech, energy, media, and SaaS. 10 years of self-teaching before that.
+<div align="center">
 
-I build things end-to-end: architecture, frontend, backend, cloud, deployment. No hand-holding required.
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/alexcloudstar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/alexcloudstar)
-[![Twitter](https://img.shields.io/twitter/follow/alexcloudstar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.twitter.com/alexcloudstar)
+<sub>**SENIOR FULL-STACK ENGINEER**</sub>
+
+# Alex Cloudstar
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=21&pause=1200&color=2997FF&center=true&vCenter=true&width=620&height=40&lines=Architecture%2C+frontend%2C+backend%2C+cloud.;End+to+end.+No+hand-holding.;8%2B+years.+Production+software.;Fintech.+Energy.+Media.+SaaS." />
+  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=21&pause=1200&color=0071E3&center=true&vCenter=true&width=620&height=40&lines=Architecture%2C+frontend%2C+backend%2C+cloud.;End+to+end.+No+hand-holding.;8%2B+years.+Production+software.;Fintech.+Energy.+Media.+SaaS." alt="Architecture, frontend, backend, cloud" />
+</picture>
+
+<p>Romania &nbsp;·&nbsp; 8+ years shipping production software across fintech, energy, media &amp; SaaS.<br/>Self-taught into the field, nine years all in. No hand-holding required.</p>
+
+<br/>
+
+<a href="https://www.github.com/alexcloudstar"><img src="https://img.shields.io/github/followers/alexcloudstar?style=flat&logo=github&logoColor=1d1d1f&labelColor=f5f5f7&color=0071e3&label=Followers" alt="Followers" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=alexcloudstar&style=flat&color=0071e3&label=Profile+views" alt="Profile views" />
+&nbsp;
+<a href="https://alexcloudstar.com"><img src="https://img.shields.io/badge/Portfolio-alexcloudstar.com-0071e3?style=flat&logo=safari&logoColor=1d1d1f&labelColor=f5f5f7" alt="Portfolio" /></a>
+
+<br/>
+
+</div>
 
 ---
+
+<!-- ─────────────────────  WHAT I WORK WITH  ──────────────────── -->
+
+<div align="center">
 
 ## What I work with
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-8%20yrs-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-7%20yrs-3178C6?style=flat-square&logo=typescript&logoColor=white)
+</div>
 
-### Frontend
-![React](https://img.shields.io/badge/React-8%20yrs-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-7%20yrs-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-5%20yrs-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-7%20yrs-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-5%20yrs-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-6%20yrs-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-8%20yrs-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8%20yrs-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-8%20yrs-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-6%20yrs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-8%20yrs-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-6%20yrs-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-### Databases & ORMs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7%20yrs-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-6%20yrs-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-5%20yrs-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-7%20yrs-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-3%20yrs-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-
-### Cloud & Infra
-![AWS](https://img.shields.io/badge/AWS-4%20yrs-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-5%20yrs-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7%20yrs-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### Tooling
-![Git](https://img.shields.io/badge/Git-8%20yrs-F05032?style=flat-square&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-6%20yrs-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-6%20yrs-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Vitest](https://img.shields.io/badge/Vitest-2%20yrs-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
+<table align="center">
+<tr>
+<td valign="middle" align="right"><sub><strong>Languages</strong></sub></td>
+<td>
+<img src="https://img.shields.io/badge/JavaScript-8_yrs-0071e3?style=flat&logo=javascript&logoColor=1d1d1f&labelColor=f5f5f7" alt="JavaScript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-7_yrs-0071e3?style=flat&logo=typescript&logoColor=1d1d1f&labelColor=f5f5f7" alt="TypeScript" />&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td valign="middle" align="right"><sub><strong>Frontend</strong></sub></td>
+<td>
+<img src="https://img.shields.io/badge/React-8_yrs-0071e3?style=flat&logo=react&logoColor=1d1d1f&labelColor=f5f5f7" alt="React" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Next.js-7_yrs-0071e3?style=flat&logo=nextdotjs&logoColor=1d1d1f&labelColor=f5f5f7" alt="Next.js" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tailwind-5_yrs-0071e3?style=flat&logo=tailwindcss&logoColor=1d1d1f&labelColor=f5f5f7" alt="TailwindCSS" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Redux-7_yrs-0071e3?style=flat&logo=redux&logoColor=1d1d1f&labelColor=f5f5f7" alt="Redux" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Styled_Components-5_yrs-0071e3?style=flat&logo=styledcomponents&logoColor=1d1d1f&labelColor=f5f5f7" alt="Styled Components" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Storybook-6_yrs-0071e3?style=flat&logo=storybook&logoColor=1d1d1f&labelColor=f5f5f7" alt="Storybook" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML5-8_yrs-0071e3?style=flat&logo=html5&logoColor=1d1d1f&labelColor=f5f5f7" alt="HTML5" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-8_yrs-0071e3?style=flat&logo=css3&logoColor=1d1d1f&labelColor=f5f5f7" alt="CSS3" />&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td valign="middle" align="right"><sub><strong>Backend</strong></sub></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-8_yrs-0071e3?style=flat&logo=nodedotjs&logoColor=1d1d1f&labelColor=f5f5f7" alt="Node.js" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NestJS-6_yrs-0071e3?style=flat&logo=nestjs&logoColor=1d1d1f&labelColor=f5f5f7" alt="NestJS" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Express-8_yrs-0071e3?style=flat&logo=express&logoColor=1d1d1f&labelColor=f5f5f7" alt="Express" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GraphQL-6_yrs-0071e3?style=flat&logo=graphql&logoColor=1d1d1f&labelColor=f5f5f7" alt="GraphQL" />&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td valign="middle" align="right"><sub><strong>Data &amp; ORMs</strong></sub></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-7_yrs-0071e3?style=flat&logo=postgresql&logoColor=1d1d1f&labelColor=f5f5f7" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-6_yrs-0071e3?style=flat&logo=mongodb&logoColor=1d1d1f&labelColor=f5f5f7" alt="MongoDB" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Firebase-5_yrs-0071e3?style=flat&logo=firebase&logoColor=1d1d1f&labelColor=f5f5f7" alt="Firebase" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Prisma-7_yrs-0071e3?style=flat&logo=prisma&logoColor=1d1d1f&labelColor=f5f5f7" alt="Prisma" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Drizzle-3_yrs-0071e3?style=flat&logo=drizzle&logoColor=1d1d1f&labelColor=f5f5f7" alt="Drizzle" />&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td valign="middle" align="right"><sub><strong>Cloud &amp; Infra</strong></sub></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-4_yrs-0071e3?style=flat&logo=amazonwebservices&logoColor=1d1d1f&labelColor=f5f5f7" alt="AWS" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vercel-5_yrs-0071e3?style=flat&logo=vercel&logoColor=1d1d1f&labelColor=f5f5f7" alt="Vercel" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-7_yrs-0071e3?style=flat&logo=docker&logoColor=1d1d1f&labelColor=f5f5f7" alt="Docker" />&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td valign="middle" align="right"><sub><strong>Tooling</strong></sub></td>
+<td>
+<img src="https://img.shields.io/badge/Git-8_yrs-0071e3?style=flat&logo=git&logoColor=1d1d1f&labelColor=f5f5f7" alt="Git" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vite-6_yrs-0071e3?style=flat&logo=vite&logoColor=1d1d1f&labelColor=f5f5f7" alt="Vite" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Webpack-6_yrs-0071e3?style=flat&logo=webpack&logoColor=1d1d1f&labelColor=f5f5f7" alt="Webpack" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vitest-2_yrs-0071e3?style=flat&logo=vitest&logoColor=1d1d1f&labelColor=f5f5f7" alt="Vitest" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Neovim-f5f5f7?style=flat&logo=neovim&logoColor=1d1d1f&labelColor=f5f5f7" alt="Neovim" />&nbsp;&nbsp;
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+<!-- ──────────────────────  BY THE NUMBERS  ───────────────────── -->
 
-<a href="http://www.github.com/alexcloudstar">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexcloudstar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub stats" />
-</a>
+<div align="center">
 
-<a href="http://www.github.com/alexcloudstar">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexcloudstar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+## By the numbers
 
-<a href="https://github.com/alexcloudstar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcloudstar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<table align="center">
+<tr>
+<td align="center" width="150"><h2>660+</h2><sub>PULL REQUESTS</sub></td>
+<td align="center" width="150"><h2>2.1k</h2><sub>CONTRIBUTIONS / YR</sub></td>
+<td align="center" width="150"><h2>18</h2><sub>PUBLIC REPOS</sub></td>
+<td align="center" width="150"><h2>39</h2><sub>FOLLOWERS</sub></td>
+</tr>
+</table>
+
+<sub>Snapshot &nbsp;·&nbsp; June 2026 &nbsp;·&nbsp; on GitHub since 2019</sub>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alexcloudstar&hide_border=true&border_radius=16&background=1d1d1f&border=424245&stroke=424245&ring=2997ff&fire=2997ff&currStreakNum=f5f5f7&currStreakLabel=2997ff&sideNums=f5f5f7&sideLabels=86868b&dates=86868b" />
+  <img src="https://streak-stats.demolab.com?user=alexcloudstar&hide_border=true&border_radius=16&background=f5f5f7&border=d2d2d7&stroke=d2d2d7&ring=0071e3&fire=0071e3&currStreakNum=1d1d1f&currStreakLabel=0071e3&sideNums=1d1d1f&sideLabels=6e6e73&dates=6e6e73" alt="GitHub streak" width="495" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=alexcloudstar&bg_color=1d1d1f&color=f5f5f7&title_color=f5f5f7&line=2997ff&point=f5f5f7&area=true&area_color=2997ff&hide_border=true&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexcloudstar&bg_color=f5f5f7&color=1d1d1f&title_color=1d1d1f&line=0071e3&point=1d1d1f&area=true&area_color=0071e3&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+  <img src="./assets/snake-light.svg" alt="A snake eating my contribution graph" width="100%" />
+</picture>
+
+</div>
 
 ---
+
+<!-- ───────────────────────────  FIND ME  ─────────────────────── -->
+
+<div align="center">
 
 ## Find me
 
-[![Portfolio](https://img.shields.io/badge/alexcloudstar.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://alexcloudstar.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandruromila)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/alexcloudstar)
-[![HackerNoon](https://img.shields.io/badge/HackerNoon-00D100?style=for-the-badge&logo=hackernoon&logoColor=white)](https://hackernoon.com/u/alexcloudstar)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://www.dev.to/alexcloudstar)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alexcloudstar)
+<a href="https://alexcloudstar.com"><img src="https://img.shields.io/badge/Portfolio-f5f5f7?style=flat&logo=safari&logoColor=1d1d1f" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/alexandruromila"><img src="https://img.shields.io/badge/LinkedIn-f5f5f7?style=flat&logo=linkedin&logoColor=1d1d1f" alt="LinkedIn" /></a>
+<a href="https://www.twitter.com/alexcloudstar"><img src="https://img.shields.io/badge/X-f5f5f7?style=flat&logo=x&logoColor=1d1d1f" alt="X" /></a>
+<a href="https://hackernoon.com/u/alexcloudstar"><img src="https://img.shields.io/badge/HackerNoon-f5f5f7?style=flat&logo=hackernoon&logoColor=1d1d1f" alt="HackerNoon" /></a>
+<a href="https://www.dev.to/alexcloudstar"><img src="https://img.shields.io/badge/Dev.to-f5f5f7?style=flat&logo=devdotto&logoColor=1d1d1f" alt="Dev.to" /></a>
+<a href="https://www.youtube.com/@alexcloudstar"><img src="https://img.shields.io/badge/YouTube-f5f5f7?style=flat&logo=youtube&logoColor=1d1d1f" alt="YouTube" /></a>
+
+<br/><br/>
+
+<sub>Designed in Romania.</sub>
+
+</div>
