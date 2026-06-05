@@ -1,2 +1,4 @@
 .cal.json
 .snake-gen.cjs
+.streak-gen.cjs
+.graph-gen.cjs

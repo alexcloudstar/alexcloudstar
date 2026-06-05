@@ -49,10 +49,14 @@
 <td valign="middle" align="right"><sub><strong>Frontend</strong></sub></td>
 <td>
 <img src="https://img.shields.io/badge/React-8_yrs-0071e3?style=flat&logo=react&logoColor=1d1d1f&labelColor=f5f5f7" alt="React" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Next.js-7_yrs-0071e3?style=flat&logo=nextdotjs&logoColor=1d1d1f&labelColor=f5f5f7" alt="Next.js" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Tailwind-5_yrs-0071e3?style=flat&logo=tailwindcss&logoColor=1d1d1f&labelColor=f5f5f7" alt="TailwindCSS" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Redux-7_yrs-0071e3?style=flat&logo=redux&logoColor=1d1d1f&labelColor=f5f5f7" alt="Redux" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Zustand-4_yrs-0071e3?style=flat&labelColor=f5f5f7" alt="Zustand" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Context_API-5_yrs-0071e3?style=flat&labelColor=f5f5f7" alt="Context API" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Styled_Components-5_yrs-0071e3?style=flat&logo=styledcomponents&logoColor=1d1d1f&labelColor=f5f5f7" alt="Styled Components" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Material_UI-5_yrs-0071e3?style=flat&logo=mui&logoColor=1d1d1f&labelColor=f5f5f7" alt="Material UI" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TailwindCSS-5_yrs-0071e3?style=flat&logo=tailwindcss&logoColor=1d1d1f&labelColor=f5f5f7" alt="TailwindCSS" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-4_yrs-0071e3?style=flat&logo=bootstrap&logoColor=1d1d1f&labelColor=f5f5f7" alt="Bootstrap" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sass-5_yrs-0071e3?style=flat&logo=sass&logoColor=1d1d1f&labelColor=f5f5f7" alt="Sass" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Storybook-6_yrs-0071e3?style=flat&logo=storybook&logoColor=1d1d1f&labelColor=f5f5f7" alt="Storybook" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML5-8_yrs-0071e3?style=flat&logo=html5&logoColor=1d1d1f&labelColor=f5f5f7" alt="HTML5" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-8_yrs-0071e3?style=flat&logo=css3&logoColor=1d1d1f&labelColor=f5f5f7" alt="CSS3" />&nbsp;&nbsp;
@@ -62,18 +66,32 @@
 <td valign="middle" align="right"><sub><strong>Backend</strong></sub></td>
 <td>
 <img src="https://img.shields.io/badge/Node.js-8_yrs-0071e3?style=flat&logo=nodedotjs&logoColor=1d1d1f&labelColor=f5f5f7" alt="Node.js" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NestJS-6_yrs-0071e3?style=flat&logo=nestjs&logoColor=1d1d1f&labelColor=f5f5f7" alt="NestJS" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Express-8_yrs-0071e3?style=flat&logo=express&logoColor=1d1d1f&labelColor=f5f5f7" alt="Express" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GraphQL-6_yrs-0071e3?style=flat&logo=graphql&logoColor=1d1d1f&labelColor=f5f5f7" alt="GraphQL" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NestJS-6_yrs-0071e3?style=flat&logo=nestjs&logoColor=1d1d1f&labelColor=f5f5f7" alt="NestJS" />&nbsp;&nbsp;
 </td>
 </tr>
 <tr>
-<td valign="middle" align="right"><sub><strong>Data &amp; ORMs</strong></sub></td>
+<td valign="middle" align="right"><sub><strong>Full-Stack</strong></sub></td>
+<td>
+<img src="https://img.shields.io/badge/Next.js-7_yrs-0071e3?style=flat&logo=nextdotjs&logoColor=1d1d1f&labelColor=f5f5f7" alt="Next.js" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GraphQL-6_yrs-0071e3?style=flat&logo=graphql&logoColor=1d1d1f&labelColor=f5f5f7" alt="GraphQL" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Apollo-6_yrs-0071e3?style=flat&logo=apollographql&logoColor=1d1d1f&labelColor=f5f5f7" alt="Apollo" />&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td valign="middle" align="right"><sub><strong>Databases</strong></sub></td>
 <td>
 <img src="https://img.shields.io/badge/PostgreSQL-7_yrs-0071e3?style=flat&logo=postgresql&logoColor=1d1d1f&labelColor=f5f5f7" alt="PostgreSQL" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-6_yrs-0071e3?style=flat&logo=mongodb&logoColor=1d1d1f&labelColor=f5f5f7" alt="MongoDB" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Firebase-5_yrs-0071e3?style=flat&logo=firebase&logoColor=1d1d1f&labelColor=f5f5f7" alt="Firebase" />&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td valign="middle" align="right"><sub><strong>ORMs</strong></sub></td>
+<td>
 <img src="https://img.shields.io/badge/Prisma-7_yrs-0071e3?style=flat&logo=prisma&logoColor=1d1d1f&labelColor=f5f5f7" alt="Prisma" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeORM-5_yrs-0071e3?style=flat&labelColor=f5f5f7" alt="TypeORM" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Mongoose-6_yrs-0071e3?style=flat&labelColor=f5f5f7" alt="Mongoose" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Drizzle-3_yrs-0071e3?style=flat&logo=drizzle&logoColor=1d1d1f&labelColor=f5f5f7" alt="Drizzle" />&nbsp;&nbsp;
 </td>
 </tr>
@@ -89,10 +107,13 @@
 <td valign="middle" align="right"><sub><strong>Tooling</strong></sub></td>
 <td>
 <img src="https://img.shields.io/badge/Git-8_yrs-0071e3?style=flat&logo=git&logoColor=1d1d1f&labelColor=f5f5f7" alt="Git" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vite-6_yrs-0071e3?style=flat&logo=vite&logoColor=1d1d1f&labelColor=f5f5f7" alt="Vite" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NPM-8_yrs-0071e3?style=flat&logo=npm&logoColor=1d1d1f&labelColor=f5f5f7" alt="NPM" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Yarn-7_yrs-0071e3?style=flat&logo=yarn&logoColor=1d1d1f&labelColor=f5f5f7" alt="Yarn" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Webpack-6_yrs-0071e3?style=flat&logo=webpack&logoColor=1d1d1f&labelColor=f5f5f7" alt="Webpack" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vite-6_yrs-0071e3?style=flat&logo=vite&logoColor=1d1d1f&labelColor=f5f5f7" alt="Vite" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ESLint-7_yrs-0071e3?style=flat&logo=eslint&logoColor=1d1d1f&labelColor=f5f5f7" alt="ESLint" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Vitest-2_yrs-0071e3?style=flat&logo=vitest&logoColor=1d1d1f&labelColor=f5f5f7" alt="Vitest" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Neovim-f5f5f7?style=flat&logo=neovim&logoColor=1d1d1f&labelColor=f5f5f7" alt="Neovim" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Neovim-3_yrs-0071e3?style=flat&logo=neovim&logoColor=1d1d1f&labelColor=f5f5f7" alt="Neovim" />&nbsp;&nbsp;
 </td>
 </tr>
 </table>
@@ -119,13 +140,13 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alexcloudstar&hide_border=true&border_radius=16&background=1d1d1f&border=424245&stroke=424245&ring=2997ff&fire=2997ff&currStreakNum=f5f5f7&currStreakLabel=2997ff&sideNums=f5f5f7&sideLabels=86868b&dates=86868b" />
-  <img src="https://streak-stats.demolab.com?user=alexcloudstar&hide_border=true&border_radius=16&background=f5f5f7&border=d2d2d7&stroke=d2d2d7&ring=0071e3&fire=0071e3&currStreakNum=1d1d1f&currStreakLabel=0071e3&sideNums=1d1d1f&sideLabels=6e6e73&dates=6e6e73" alt="GitHub streak" width="495" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/streak-dark.svg" />
+  <img src="./assets/streak-light.svg" alt="GitHub streak: 2,125 contributions, 5 day current streak, 27 day longest" width="495" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=alexcloudstar&bg_color=1d1d1f&color=f5f5f7&title_color=f5f5f7&line=2997ff&point=f5f5f7&area=true&area_color=2997ff&hide_border=true&custom_title=Contribution%20Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexcloudstar&bg_color=f5f5f7&color=1d1d1f&title_color=1d1d1f&line=0071e3&point=1d1d1f&area=true&area_color=0071e3&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/graph-dark.svg" />
+  <img src="./assets/graph-light.svg" alt="Contribution graph: 2,125 contributions in the last year" width="100%" />
 </picture>
 
 <br/><br/>
